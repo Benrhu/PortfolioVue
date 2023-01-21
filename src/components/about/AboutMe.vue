@@ -6,7 +6,7 @@ export default {
 				{
 					id: 1,
 					bio:
-						'Llevo desde 2021 programando webs y sistemas de backend internos. Normalmente programo fullstack JavaScript,aunque a veces hago cosillas de AI con Python.',
+						'Desarrollo soluciones tecnológicas para facilitar procesos a otras empresas, reduciendo costes y generando beneficio.',
 				},
 				{
 					id: 2,
